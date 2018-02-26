@@ -117,9 +117,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges
-  on. They should have a few specific software packages installed (listed
+  <strong>Requirements:</strong>
+Participants can use their own Census provided laptops or a loaner
+laptop. In either case please contact Matt Haubach
+<matthew.e.haubach@census.gov> for help setting up your own laptop or
+to let him know that you require a loaner laptop.
+They should have a few specific software packages installed (listed
   <a href="#setup">below</a>). They are also required to abide by
   {% if page.carpentry == "swc" %}
   Software Carpentry's
