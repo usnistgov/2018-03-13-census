@@ -308,8 +308,10 @@ They should have a few specific software packages installed (listed
 
   <p>
     After following the instructions below for your platform, please
-    follow [the instructions for downloading and unpacking the
-    data](https://swcarpentry.github.io/shell-novice/setup.html)
+    follow
+    <a href="https://swcarpentry.github.io/shell-novice/setup.html">
+    the instructions for downloading and unpacking the data
+    </a>
     necessary for the Unix Shell lesson.
   </p>
 
@@ -558,8 +560,10 @@ They should have a few specific software packages installed (listed
 
   <p>
     After following the instructions below for your platform, please
-    follow [the instructions for downloading and unpacking the
-    data](http://swcarpentry.github.io/python-novice-inflammation/setup/)
+    follow
+    <a href="http://swcarpentry.github.io/python-novice-inflammation/setup/">
+     the instructions for downloading and unpacking the data
+    </a>
     necessary for the Programming with Python lesson.
   </p>
 
