@@ -306,6 +306,14 @@ They should have a few specific software packages installed (listed
     tasks more quickly.
   </p>
 
+  <p>
+    After following the instructions below for your platform, please
+    follow [the instructions for downloading and unpacking the
+    data](https://swcarpentry.github.io/shell-novice/setup.html)
+    necessary for the Unix Shell lesson.
+  </p>
+
+
   <div class="row">
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
@@ -362,6 +370,7 @@ They should have a few specific software packages installed (listed
         </li>
       </ol>
       <p>This will provide you with both Git and Bash in the Git Bash program.</p>
+
     </div>
     <div class="col-md-4">
       <h4 id="shell-macosx">macOS</h4>
@@ -546,6 +555,13 @@ They should have a few specific software packages installed (listed
       (some older browsers, including Internet Explorer version 9
       and below, are not).
     </p>
+
+  <p>
+    After following the instructions below for your platform, please
+    follow [the instructions for downloading and unpacking the
+    data](http://swcarpentry.github.io/python-novice-inflammation/setup/)
+    necessary for the Programming with Python lesson.
+  </p>
 
   <div class="row">
     <div class="col-md-4">
